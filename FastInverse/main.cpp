@@ -26,7 +26,7 @@ float inverse_rsqrt( float number )
     return y;
 }
 
-// driver code
+// driver code to test
 int main(){
 
     int n = 256;
